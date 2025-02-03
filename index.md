@@ -84,11 +84,3 @@ I’m eager to connect with industry professionals, potential collaborators, and
   *Thank you for visiting my portfolio! I’m excited to collaborate on projects, explore new cybersecurity frontiers, and continue learning in this ever-evolving field.*
 
 
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
