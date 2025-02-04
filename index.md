@@ -33,7 +33,7 @@ During my internship at **Fusion Cyber**, I utilized **Splunk** to monitor and a
 ---
 
 ### Microsoft Sentinel (Cloud Security)
-I leveraged **Microsoft Sentinel** on Azure to configure security rules, monitor threats, and manage incidents in a cloud environment. This screenshot shows: (assets/Microsoft sentinel.png)
+I leveraged **Microsoft Sentinel** on Azure to configure security rules, monitor threats, and manage incidents in a cloud environment. This screenshot shows: ![Microsoft Sentinel Dashboard](assets/Microsoft%20sentinel.png)
 
 - **Active Rules**: Configured analytics rules, ranging from High to Medium severity.  
 - **Real-Time Analytics**: Immediate visibility into suspicious inbox rules, sign-in anomalies, and potential lateral movement.  
@@ -46,7 +46,8 @@ I leveraged **Microsoft Sentinel** on Azure to configure security rules, monitor
 
 ### Nessus (Vulnerability Scanning)
 
-I used **Nessus** to perform host discovery and vulnerability scanning. This screenshot illustrates:
+I used **Nessus** to perform host discovery and vulnerability scanning. This screenshot illustrates: ![Nessus Scan Results](assets/NESSUS.png)
+
 
 - **Scan Results**: Identification of low- to medium-severity vulnerabilities.  
 - **Policy & Settings**: Configuration details such as scan policy, severity base (CVSS v3.0), and local scanner usage.  
