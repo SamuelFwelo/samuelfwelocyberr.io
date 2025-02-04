@@ -31,7 +31,7 @@ During my internship at **Fusion Cyber**, I utilized **Splunk** to monitor and a
 ---
 
 ### Microsoft Sentinel (Cloud Security)
-I leveraged **Microsoft Sentinel** on Azure to configure security rules, monitor threats, and manage incidents in a cloud environment. This screenshot shows:
+I leveraged **Microsoft Sentinel** on Azure to configure security rules, monitor threats, and manage incidents in a cloud environment. This screenshot shows: (assets/Microsoft sentinel.png)
 
 - **Active Rules**: Configured analytics rules, ranging from High to Medium severity.  
 - **Real-Time Analytics**: Immediate visibility into suspicious inbox rules, sign-in anomalies, and potential lateral movement.  
