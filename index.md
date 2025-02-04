@@ -77,6 +77,23 @@ I believe in continuous improvement and plan to expand my skill set:
 - **Advanced Network Security & Wireshark**: Deep dive into packet analysis.  
 - **Certifications**: Further formal credentials beyond my current **CompTIA Security+** and **Fusion Cyber RMF**.
 
+---
+
+## Certifications
+
+### CompTIA Security+
+
+![CompTIA Security+ Certificate](assets/CompTIA_SecurityPlus_Certificate.png)
+
+Earning the **CompTIA Security+** certification demonstrated my understanding of core cybersecurity concepts, including network security, threat detection, and risk management. I used these principles extensively in my internship and independent projects.
+
+### Fusion Cyber RMF
+
+![Fusion Cyber RMF Certificate](assets/Fusion_Cyber_RMF_Certificate.png)
+
+Through the **Fusion Cyber RMF** certification, I gained hands-on insight into the Risk Management Framework, strengthening my ability to identify, assess, and mitigate security risks in compliance with industry standards.
+
+---
 ## Contact
 
 I’m eager to connect with industry professionals, potential collaborators, and anyone interested in cybersecurity. Feel free to reach out:
