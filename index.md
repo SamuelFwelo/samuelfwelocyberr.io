@@ -83,13 +83,12 @@ I believe in continuous improvement and plan to expand my skill set:
 
 ### CompTIA Security+
 
-![CompTia Security+ ](assets/CompTIA Security+ ce certificate.pdf)
+![CompTia Security+ ](assets/CompTiaSecurity+.png)
 
 Earning the **CompTIA Security+** certification demonstrated my understanding of core cybersecurity concepts, including network security, threat detection, and risk management. I used these principles extensively in my internship and independent projects.
 
 ### Fusion Cyber RMF
-
-
+![Fusion Cyber RMF ](assets/FusionCyberRMFP1.png)
 
 Through the **Fusion Cyber RMF** certification, I gained hands-on insight into the Risk Management Framework, strengthening my ability to identify, assess, and mitigate security risks in compliance with industry standards.
 
