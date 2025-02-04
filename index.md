@@ -83,7 +83,7 @@ I believe in continuous improvement and plan to expand my skill set:
 
 ### CompTIA Security+
 
-
+![CompTia Security+ ](assets/CompTIA Security+ ce certificate.pdf)
 
 Earning the **CompTIA Security+** certification demonstrated my understanding of core cybersecurity concepts, including network security, threat detection, and risk management. I used these principles extensively in my internship and independent projects.
 
