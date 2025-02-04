@@ -17,7 +17,9 @@ I’m continuously learning new tools and frameworks to keep pace with the evolv
 ---
 
 ## Cybersecurity Experience
-During my internship at **Fusion Cyber**, I utilized **Splunk** to monitor and analyze security events in real time. This screenshot highlights: (assets/splunk.png)
+During my internship at **Fusion Cyber**, I utilized **Splunk** to monitor and analyze security events in real time. This screenshot highlights:
+![Splunk Searching for Failed Password Attempts](assets/splunk.png)
+(assets/splunk.png)
 
 - **Search Query**: Filtering logs with the keyword *“failed”* to identify potential password failures.  
 - **Event Timeline**: Displays timestamps and sources for suspicious login attempts.  
