@@ -100,6 +100,6 @@ I’m eager to connect with industry professionals, potential collaborators, and
 - **Email**: sfw223@uky.edu or samuelfwelobus@gmail.com
 - **LinkedIn**: [linkedin.com/in/samuelfwelo](https://www.linkedin.com/in/samuel-fwelo-2a1661223/)
 
-  *Thank you for visiting my portfolio! I’m excited to collaborate on projects, explore new cybersecurity frontiers, and continue learning in this ever-evolving field..*
+  *Thank you for visiting my portfolio! I’m excited to collaborate on projects, explore new cybersecurity frontiers, and continue learning in this ever-evolving field.Visit this page weekly to see updates on projects.*
 
 
