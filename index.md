@@ -92,6 +92,17 @@ Earning the **CompTIA Security+** certification demonstrated my understanding of
 
 Through the **Fusion Cyber RMF** certification, I gained hands-on insight into the Risk Management Framework, strengthening my ability to identify, assess, and mitigate security risks in compliance with industry standards.
 
+
+---
+
+## 🛡️ Let’s Defend: Case Files
+
+### ✅ Case File 001 – Operation: Data Extractor  
+A simulated ethical scraping mission using Python and stealth tactics.  
+📂 [Read the full case file →](lets-defend-casefile-001.md)
+
+---
+
 ---
 ## Contact
 
