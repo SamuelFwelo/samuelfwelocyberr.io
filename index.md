@@ -95,11 +95,7 @@ Through the **Fusion Cyber RMF** certification, I gained hands-on insight into t
 
 ---
 
-## 🛡️ Let’s Defend: Case Files
 
-### ✅ Case File 001 – Operation: Data Extractor  
-A simulated ethical scraping mission using Python and stealth tactics.  
-📂 [Read the full case file →] 
 
 ---
 
