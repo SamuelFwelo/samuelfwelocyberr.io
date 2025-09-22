@@ -93,11 +93,14 @@ Earning the **CompTIA Security+** certification demonstrated my understanding of
 Through the **Fusion Cyber RMF** certification, I gained hands-on insight into the Risk Management Framework, strengthening my ability to identify, assess, and mitigate security risks in compliance with industry standards.
 
 
----
+### Project Hub 
+Here are some of my hands-on labs and write-ups:
+
+- [OWASP Juice Shop Lab](./juice-shop.md)  
+  A vulnerable web application I deployed with Docker, scanned with Nmap, and analyzed through HTTP headers.  
+  This project demonstrates containerization, reconnaissance, and how I document findings for real-world workflows.
 
 
-
----
 
 ---
 ## Contact
