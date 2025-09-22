@@ -3,3 +3,8 @@ description: To showcase my skills to future employers
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+
+github:
+  zip_url: https://github.com/SamuelFwelo/samuelfwelocyberr.io/archive/main.zip
+  tar_url: https://github.com/SamuelFwelo/samuelfwelocyberr.io/archive/main.tar.gz
+  project_url: https://samuelfwelo.github.io/samuelfwelocyberr.io/juice-shop.html
