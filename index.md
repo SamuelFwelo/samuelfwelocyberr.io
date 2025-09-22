@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<ul class="downloads">
+  <li><a href="./juice-shop.html" class="button">Projects</a></li>
+</ul>
 # Welcome to My Cybersecurity Portfolio!
 
 I am **Samuel Fwelo**, a cybersecurity professional with a background in Information Communication Technology from the University of Kentucky. Through hands-on experience at Fusion Cyber, I’ve developed skills in **threat detection**, **vulnerability scanning**, **SIEM tools**, and **cloud security**. Explore my work and skills here!
